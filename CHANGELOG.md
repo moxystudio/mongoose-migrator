@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/moxystudio/mongoose-migrator/compare/v0.0.4...v0.0.5) (2021-03-12)
+
+
+### Bug Fixes
+
+* debug ([986861b](https://github.com/moxystudio/mongoose-migrator/commit/986861b15487073d403c17c68b00a46685aab808))
+
 ### [0.0.4](https://github.com/moxystudio/mongoose-migrator/compare/v0.0.3...v0.0.4) (2021-03-12)
 
 
