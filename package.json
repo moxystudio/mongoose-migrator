@@ -1,6 +1,6 @@
 {
   "name": "@moxy/mongoose-migrator",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Mongodb database migrations for applications using mongoose",
   "author": "João Gradim <joao.pereira@moxy.studio>",
   "license": "MIT",

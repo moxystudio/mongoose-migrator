@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/moxystudio/mongoose-migrator/compare/v0.0.6...v0.0.7) (2021-03-12)
+
+
+### Features
+
+* allow passing a logger to `up` and `down` methods ([4d7077d](https://github.com/moxystudio/mongoose-migrator/commit/4d7077db10adc7d57ae44199512aaa684d5cfc96))
+
 ### [0.0.6](https://github.com/moxystudio/mongoose-migrator/compare/v0.0.5...v0.0.6) (2021-03-12)
 
 
