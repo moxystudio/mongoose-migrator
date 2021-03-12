@@ -11,7 +11,8 @@ module.exports = compose(
         config.collectCoverageFrom = [
             'lib/**/*.js',
             '!lib/cli/**/*.js',
-            '!lib/debug.js',
+            '!lib/shared/db.js',
+            '!lib/shared/logger.js',
         ];
 
         return config;
